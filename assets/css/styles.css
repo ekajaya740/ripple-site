@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+
+body {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Arial;
+}
+
+h2 {
+  font-family: League Gothic;
+  font-size: 31px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: Arial;
+  font-size: 12px;
+  color: #ffa924;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: Arial;
+  font-size: 12px;
+  color: #353638;
+}
+
+a {
+  margin-bottom: 16px;
+  text-decoration: none;
+  color: #5eabd7;
+  font-size: 15px;
+  white-space:nowrap;
+  overflow: hidden;
+}
+
+.border-ececec{
+  border-color: #ececec;
+}
+
+.border-c6c7c7{
+  border-color: #c6c7c7;
+}
+
+.navbar-custom {
+  border-bottom-style: solid;
+  border-width: 4px;
+  border-color: #7db9d7;
+  background-color: #ffffff;
+  font-family: League Gothic;
+  font-size: 20px;
+}
+
+.px-5{
+  padding-left: 5px
+  padding-right: 5px
+}
+
+.py-1{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+
+.py-2 {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.py-4 {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.py-8 {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.py-12 {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.my-1{
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.mb-6 {
+  margin-bottom: 6px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.my-12{
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.mb-16 {
+  margin-bottom: 16px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.mt-24 {
+  margin-top: 24px;
+}
+
+.my-10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.my-16 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.py-24 {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.divider {
+  border-top-style: dotted;
+  border-width: 1px;
+}
+
+.divider-2 {
+  border-top-style: dotted;
+  border-width: 2px;
+}
+
+.no-float {
+  float: none;
+}
+
+.float-left {
+  float: left;
+}
+
+.inline-text {
+  display: inline;
+}
+
+.w-214 {
+  width: 214px;
+}
+
+.w-235 {
+  width: 235px;
+}
+
+.max-w-235 {
+  max-width: 235px;
+}
+
+.max-w-208 {
+  max-width: 208px;
+}
+
+.btn {
+  border-style: solid;
+  border-color: #dad9d9;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 10px;
+  font-size: 10px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
+  white-space:nowrap;
+  overflow: hidden;
+}
+
+.btn:hover {
+  border-style: solid;
+  border-color: #dad9d9;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 10px;
+  font-size: 10px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 4px 0 rgba(0, 0, 0, 0.19);
+  white-space:nowrap;
+  overflow: hidden;
+}
+
+.no-border-left {
+  border-left: none;
+}
+
+.no-right-left {
+  border-right: none;
+}
+
+.text-ffa924{
+  color: #ffa924
+}
+
+.footer{
+  padding-top: 10px;
+  padding-bottom: 60px;
+}
+
+.input-group-text{
+  border-left: none;
+}
+
+.form-control{
+  border-right: none;
+}
+
+.form-control:hover{
+  border-right: none;
+  box-shadow: none;
+}
